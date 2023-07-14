@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-06-06T05:35:21Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "arm_slave_2022"
+        },
+        "Owner": "NIKHIL S <ee20b090@smail.iitm.ac.in>",
+        "Size": {
+            "X": 172.573,
+            "Y": 127.178
+        }
+    }
+}

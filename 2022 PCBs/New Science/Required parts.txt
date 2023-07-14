@@ -1,0 +1,3 @@
+1 high power motor
+1 stepper motor
+1 linac
